@@ -4,6 +4,7 @@
 
 .homeIcon-FuNwkv {
   background: url(http://scp-jp-storage.wdfiles.com/local--files/file%3A6759963-9-k2i4/image) center/contain no-repeat;
+  filter: opacity(40%);
 }
 
 #app-mount:before {
