@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
 
+html:lang(ja) ::placeholder, html:lang(ja) body, html:lang(ja) button, html:lang(ja) input, html:lang(ja) select, html:lang(ja) textarea, html:lang(ja-JP) ::placeholder, html:lang(ja-JP) body, html:lang(ja-JP) button, html:lang(ja-JP) input, html:lang(ja-JP) select, html:lang(ja-JP) textarea {
+  font-family: 'Stick', sans-serif;
+}
 @keyframes pulsingBackground {
   0% {
     background-color: var(--color-low);
