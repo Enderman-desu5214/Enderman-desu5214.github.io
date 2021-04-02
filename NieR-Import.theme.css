@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+
 @keyframes pulsingBackground {
   0% {
     background-color: var(--color-low);
@@ -957,11 +959,11 @@ button,
 input,
 select,
 textarea {
-  font-family: var(--nier-font), Arial, Helvetica, sans-serif;
+  font-family: font-family: 'Stick', sans-serif;
 }
 
 strong {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Stick', sans-serif;
 }
 
 .markup-2BOw-j {
