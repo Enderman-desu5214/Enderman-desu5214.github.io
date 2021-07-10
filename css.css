@@ -2093,3 +2093,9 @@ hr {
     background: rgb(15, 15, 15);
     border: dashed 0.1rem #6F6F6F;
 }
+
+/* Added by Enderman_desu */
+
+#main-content::before {
+ display: none !important;   
+}
